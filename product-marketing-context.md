@@ -4,7 +4,7 @@
 
 ## Product Overview
 **One-liner:** 全球顶尖 AI 账号一站式订阅平台 (One-stop Global AI Subscription Hub)
-- 提供 ChatGPT (GPT-5/Pro), Grok (xAI), Google Gemini 2.0 (含 Image2/Nano Banana 2) 等顶尖 AI 工具的账号代充值与成品号服务。
+- 提供 ChatGPT (GPT-5.4/Pro), Grok (xAI), Google Gemini 3.0 等顶尖 AI 工具的账号代充值与成品号服务。
 - 重点推荐: GPT Pro 高级订阅系列 ($100/$200 档位) 以及 Google AI Pro ($250 档位)，满足专业级算力与高保真绘图需求。
 **Product category:** AI 账号服务 (AI Account Services)
 **Product type:** 服务 + 虚拟商品 (Service + Virtual Goods)
